@@ -10,4 +10,4 @@ and because Pinescript has no implemented random number generation, I created on
 The strategy can be seen here: [Random-Strategy-with-3-TP-levels-and-SL](https://www.tradingview.com/script/lfZvb4hY-Random-Strategy-with-3-TP-levels-and-SL-Kenfus/)
 # Results 
 The results were as expected. I had, with some tuning of the parameters for the Lehmer Random Number generator, amazing results.
-However, those were of course heavily overfitted so I jsut released a "random" one.
+However, those were of course heavily overfitted so I'm showing here a "random" one.
