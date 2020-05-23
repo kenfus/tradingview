@@ -1,3 +1,4 @@
+![Strategy Result](Screenshot_20200523_154048.png)
 # Random Strategy
 I wanted to know how good a random strategy is in forex-trading. I used a 3 level take profit and a stoploss. 
 The stoploss was set at 1.2*atr and the takeprofit at 0.8, 1.2 and 1.6 times the atr.
